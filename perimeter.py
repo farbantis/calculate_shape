@@ -4,4 +4,4 @@ def perimeter(x, y):
 
 
 def smth():
-    pass
+    print('it was something important')
