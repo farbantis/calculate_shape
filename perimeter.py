@@ -1,5 +1,6 @@
 def perimeter(x, y):
-    pass
+    perim = x*2 + y*2
+    return perim
 
 
 def smth():
