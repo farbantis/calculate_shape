@@ -10,3 +10,6 @@ class Shape:
     def square_area(self):
         area = math.pi * self.x ** 2
         return area
+
+    def triangle_are(self):
+        pass
